@@ -3,17 +3,33 @@ Start
 Number of generated k-mers: 67108864
 Finish!
 
-real	1m39,363s
-user	1m39,211s
-sys	0m0,005s
+real	1m35,194s
+user	1m34,094s
+sys	0m0,197s
 
 Tiempo para longitud 13 con C++:
 Start
 Number of generated k-mers: 268435456
 Finish!
 
-real	0m2,918s
-user	0m2,915s
-sys	0m0,000s
+real	0m3,020s
+user	0m2,840s
+sys	0m0,117s
 
 Tiempo para longitud 14 con Python:
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m15,479s
+user	6m14,713s
+sys	0m0,163s
+
+Tiempo para longitud 14 con C++:
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m2,990s
+user	0m2,837s
+sys	0m0,103s
