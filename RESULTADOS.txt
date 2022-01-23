@@ -1,0 +1,19 @@
+Tiempo para longitud 13 con Python:
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m39,363s
+user	1m39,211s
+sys	0m0,005s
+
+Tiempo para longitud 13 con C++:
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m2,918s
+user	0m2,915s
+sys	0m0,000s
+
+Tiempo para longitud 14 con Python:
